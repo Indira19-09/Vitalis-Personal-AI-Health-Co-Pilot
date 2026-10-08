@@ -101,9 +101,7 @@ bun dev
 
 ## Deployment
 
-The app is deployed on Lovable (frontend + backend + database together). The source is synced to
-GitHub via Lovable's two-way GitHub integration.
-
+The app is deployed on Lovable (frontend + backend + database together). 
 > Note: the backend (AI copilot, database, auth) requires a server runtime, so a static-only host
 > like GitHub Pages can only serve a frontend demo, not the full app.
 
